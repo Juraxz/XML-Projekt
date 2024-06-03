@@ -16,6 +16,437 @@
         "description": "A novel presenting a dystopian future under a totalitarian regime.",
         "image": "images/1984.jpg",
         "rating": 4.7
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "description": "A romantic novel that charts the emotional development of the protagonist Elizabeth Bennet.",
+        "image": "images/pride_and_prejudice.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "description": "A novel about the American dream and the roaring twenties.",
+        "image": "images/the_great_gatsby.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 5,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "description": "A novel about the voyage of the whaling ship Pequod.",
+        "image": "images/moby_dick.jpg",
+        "rating": 4.0
+    },
+    {
+        "id": 6,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": 1869,
+        "description": "A novel that chronicles the history of the French invasion of Russia.",
+        "image": "images/war_and_peace.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 7,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "description": "A novel about the mental anguish and moral dilemmas of a poor ex-student.",
+        "image": "images/crime_and_punishment.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "description": "A novel about the experiences of a young man in New York City.",
+        "image": "images/the_catcher_in_the_rye.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 9,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "description": "A fantasy novel about the journey of the hobbit Bilbo Baggins.",
+        "image": "images/the_hobbit.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "description": "A dystopian novel about a future society where books are banned.",
+        "image": "images/fahrenheit_451.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 11,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "description": "A novel about the experiences of the titular character, including her growth to adulthood.",
+        "image": "images/jane_eyre.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "description": "A dystopian novel about a future world of totalitarianism and advanced technology.",
+        "image": "images/brave_new_world.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 13,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": -800,
+        "description": "An epic poem about the journey of Odysseus.",
+        "image": "images/the_odyssey.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": 14,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "year": 1847,
+        "description": "A novel about the intense and almost demonic love between Catherine Earnshaw and Heathcliff.",
+        "image": "images/wuthering_heights.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 15,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "year": 1320,
+        "description": "An epic poem about Dante's journey through Hell, Purgatory, and Paradise.",
+        "image": "images/the_divine_comedy.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "year": 1862,
+        "description": "A novel about the struggles of ex-convict Jean Valjean.",
+        "image": "images/les_miserables.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": 17,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year": 1877,
+        "description": "A novel about the tragic story of a married aristocrat and her affair.",
+        "image": "images/anna_karenina.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 18,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "year": 1856,
+        "description": "A novel about the life of Emma Bovary.",
+        "image": "images/madame_bovary.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 19,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "description": "A novel about the adventures of a nobleman who reads too many chivalric romances.",
+        "image": "images/don_quixote.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": 20,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "year": 1967,
+        "description": "A novel about the multi-generational story of the Buendía family.",
+        "image": "images/one_hundred_years_of_solitude.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 21,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890,
+        "description": "A novel about a man who remains young while his portrait ages.",
+        "image": "images/the_picture_of_dorian_gray.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 22,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "description": "A novel about a scientist who creates a monster.",
+        "image": "images/frankenstein.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 23,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year": 1880,
+        "description": "A novel about the spiritual drama of moral struggles concerning faith, doubt, and reason.",
+        "image": "images/the_brothers_karamazov.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": 24,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year": 1884,
+        "description": "A novel about a boy's journey down the Mississippi River.",
+        "image": "images/the_adventures_of_huckleberry_finn.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 25,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "description": "A novel about the vampire Count Dracula's attempt to move from Transylvania to England.",
+        "image": "images/dracula.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 26,
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "year": 1915,
+        "description": "A novella about a man who wakes up one morning to find himself transformed into a giant insect.",
+        "image": "images/the_metamorphosis.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 27,
+        "title": "The Iliad",
+        "author": "Homer",
+        "year": -750,
+        "description": "An epic poem about the Trojan War.",
+        "image": "images/the_iliad.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": 28,
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "year": 1952,
+        "description": "A novel about an aging fisherman who struggles with a giant marlin.",
+        "image": "images/the_old_man_and_the_sea.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 29,
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "year": 1922,
+        "description": "A novel about the encounters of Leopold Bloom in Dublin.",
+        "image": "images/ulysses.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 30,
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "year": 1400,
+        "description": "A collection of 24 stories presented as part of a story-telling contest.",
+        "image": "images/the_canterbury_tales.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 31,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "year": 1939,
+        "description": "A novel about the hardships of the Great Depression.",
+        "image": "images/the_grapes_of_wrath.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 32,
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "year": 1850,
+        "description": "A novel about the public shaming of Hester Prynne.",
+        "image": "images/the_scarlet_letter.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 33,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year": 1861,
+        "description": "A novel about the growth and personal development of an orphan named Pip.",
+        "image": "images/great_expectations.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 34,
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "year": 1955,
+        "description": "A novel about a man's obsession with a young girl.",
+        "image": "images/lolita.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 35,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year": 1859,
+        "description": "A novel set in London and Paris before and during the French Revolution.",
+        "image": "images/a_tale_of_two_cities.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 36,
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "year": 1961,
+        "description": "A novel about the absurdities of war.",
+        "image": "images/catch_22.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 37,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "year": 1969,
+        "description": "A novel about the experiences of a soldier during World War II.",
+        "image": "images/slaughterhouse_five.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 38,
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "year": 1987,
+        "description": "A novel about a former slave and the ghost of her dead child.",
+        "image": "images/beloved.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 39,
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "year": 1929,
+        "description": "A novel that details the decline of the Compson family.",
+        "image": "images/the_sound_and_the_fury.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 40,
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "year": 1936,
+        "description": "A novel about the American Civil War and Reconstruction.",
+        "image": "images/gone_with_the_wind.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 41,
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "year": 1985,
+        "description": "A dystopian novel about a totalitarian society.",
+        "image": "images/the_handmaids_tale.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 42,
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "year": 1926,
+        "description": "A novel about a group of expatriates in Europe.",
+        "image": "images/the_sun_also_rises.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 43,
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "year": 1942,
+        "description": "A novel about an indifferent French Algerian.",
+        "image": "images/the_stranger.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 44,
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "year": 1938,
+        "description": "A novel about the second Mrs. de Winter and the shadow of her husband's first wife.",
+        "image": "images/rebecca.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 45,
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "year": 1899,
+        "description": "A novella about a voyage up the Congo River.",
+        "image": "images/heart_of_darkness.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 46,
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "year": 1952,
+        "description": "A novel about an African American man's social invisibility.",
+        "image": "images/invisible_man.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 47,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "description": "A novel about a young shepherd's journey to realize his personal legend.",
+        "image": "images/the_alchemist.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 48,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": 1945,
+        "description": "A satirical novel about a group of farm animals who rebel against their human farmer.",
+        "image": "images/animal_farm.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 49,
+        "title": "The Catch-22",
+        "author": "Joseph Heller",
+        "year": 1961,
+        "description": "A novel about the paradoxical logic of war.",
+        "image": "images/catch_22.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 50,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "year": 1963,
+        "description": "A novel about a young woman's struggle with mental illness.",
+        "image": "images/the_bell_jar.jpg",
+        "rating": 4.4
     }
-    // Dodaj više knjiga po potrebi
 ]
