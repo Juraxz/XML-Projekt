@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "description": "A novel about the serious issues of rape and racial inequality.",
+        "image": "images/to_kill_a_mockingbird.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "description": "A novel presenting a dystopian future under a totalitarian regime.",
+        "image": "images/1984.jpg",
+        "rating": 4.7
+    }
+    // Dodaj više knjiga po potrebi
+]
