@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#search {
+    padding: 10px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+}
+
+#book-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+}
+
+.book {
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+.book img {
+    width: 100px;
+    height: 150px;
+}
+
+#book-details {
+    width: 40%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.hidden {
+    display: none;
+}
